@@ -1,63 +1,63 @@
 export const robots = [
     {
       id: 1,
-      name: 'Leanne Graham',
-      username: 'Bret',
-      email: 'Sincere@april.biz'
+      name: 'Zeus101',
+      username: 'Z101',
+      email: 'z101@robogods.net'
     },
     {
       id: 2,
-      name: 'Ervin Howell',
-      username: 'Antonette',
-      email: 'Shanna@melissa.tv'
+      name: 'Odin223',
+      username: 'O223',
+      email: 'o223@robogods.net'
     },
     {
       id: 3,
-      name: 'Clementine Bauch',
-      username: 'Samantha',
-      email: 'Nathan@yesenia.net'
+      name: 'Hades8',
+      username: 'H8',
+      email: 'hades8@robogods.net'
     },
     {
       id: 4,
-      name: 'Patricia Lebsack',
-      username: 'Karianne',
-      email: 'Julianne.OConner@kory.org'
+      name: 'Thanos5000',
+      username: 'T5000',
+      email: 't5000@robogods.net'
     },
     {
       id: 5,
-      name: 'Chelsey Dietrich',
-      username: 'Kamren',
-      email: 'Lucio_Hettinger@annie.ca'
+      name: 'Neferiti305',
+      username: 'Nefe305',
+      email: 'nefe305@robogods.net'
     },
     {
       id: 6,
-      name: 'Mrs. Dennis Schulist',
-      username: 'Leopoldo_Corkery',
-      email: 'Karley_Dach@jasper.info'
+      name: 'Posiedon7',
+      username: 'P7',
+      email: 'posiedon@robogods.net'
     },
     {
       id: 7,
-      name: 'Kurtis Weissnat',
-      username: 'Elwyn.Skiles',
-      email: 'Telly.Hoeger@billy.biz'
+      name: 'Hera901',
+      username: 'H901',
+      email: 'hera901@robogods.net'
     },
     {
       id: 8,
-      name: 'Nicholas Runolfsdottir V',
-      username: 'Maxime_Nienow',
-      email: 'Sherwood@rosamond.me'
+      name: 'Artemis121',
+      username: 'Art121',
+      email: 'artemis121@robogods.net'
     },
     {
       id: 9,
-      name: 'Glenna Reichert',
-      username: 'Delphine',
-      email: 'Chaim_McDermott@dana.io'
+      name: 'Apollo2',
+      username: 'A2',
+      email: 'apollo2@robogods.net'
     },
     {
       id: 10,
-      name: 'Clementina DuBuque',
-      username: 'Moriah.Stanton',
-      email: 'Rey.Padberg@karina.biz'
+      name: 'Ares30',
+      username: 'A30',
+      email: 'ares30godofwar@robogods.net'
     }
   ];
   
